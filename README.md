@@ -1,6 +1,5 @@
 # AI/ML Project: BigMart Sales Prediction 🏪🛍️🛒
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/145608240-38d9cd36-4fb2-4ea6-aaf6-abbc8446fa2d.jpg" style="width: 1000px;"/></p>
-![25](https://user-images.githubusercontent.com/54996245/146246279-908141ae-9779-4b64-bfd2-e9af819d89f8.jpg)
 
 ### Description:
 
